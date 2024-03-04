@@ -1,0 +1,147 @@
+/*BAI1*/
+
+.button1{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 15px 32px;
+    }
+
+.viet-tien-blue {
+    color: blue; /* hoặc mã màu xanh dương của bạn */
+    }
+.small-text {
+    font-size: 14px; /* hoặc kích thước phù hợp với bạn */
+    }
+/*BAI2*/
+.button2{
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 15px 32px;
+    }
+.button3{
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 15px 32px;
+    }
+.buttonGroup2 button {
+    margin-bottom: 20px;
+  }
+/*BAI3*/
+.button4{
+    background-color: #27c8e8;
+    color: white;
+    margin-bottom: 20px;
+    border: none;
+    padding: 15px 32px;
+}
+
+/*BAI4*/
+
+  .invation {
+  position: relative;
+  background-color : lightgray;
+  magrin-top : 20px;
+  padding : 20px;
+  width: 1000px;
+  text-align: center;
+  margin-left: 200px;
+  margin-right:200px;
+}
+
+  .title {
+    margin-top: 10px;
+    font-size: 24px;
+    color: #333333;
+  }
+  .subtitle {
+    font-size: 22px;
+    color: #666666;
+    margin-bottom: 20px;
+  }
+  .email-input {
+    padding: 20px;
+    border: 1px solid #e0eeee;
+    border-radius: 5px;
+    width: 35%; /*kích thước ô */
+    margin-bottom: 20px;
+    margin: auto;
+  }
+  .send {
+    padding: 20px 10px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 10px;
+    line-height: 0.5;
+    margin-top:20px;
+  }
+
+
+/*BAI5*/
+.caphe {
+    position: relative;
+    width: 1000px;
+    height: 200px;
+    overflow: hidden;
+}
+
+.background-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white; /* Màu chữ */
+}
+
+h5 {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+h6 {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1em;
+    background-color: #e13913; /* Màu nút */
+    color: white; /* Màu chữ nút */
+    border: none;
+    cursor: pointer;
+}
+/*BAI6*/
+ .info-university {
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    padding: 20px;
+    border-radius: 10px;
+    background-image: url('https://cdn.vnreview.vn/786432_70849780842442_932609198653440?wt=5b0466937cf817a1c5aed041b1ae3029&rt=824cbb03e5a96f1af833e3624f469f67&width=1080');
+    margin: auto; /* Căn giữa khung */
+  }
+  .icon{
+    text-align: center;
+    color: white;
+    font-size: 20px
+  } 
+.yellow {color: #ffff00}
+.icon {color: #ffffff}
+  .number {
+    font-size: 40px;
+    font-weight: bold;
+  }
